@@ -1,2 +1,4 @@
 
-{} sample.json
+{ 
+    "bug_fixed": "critical"
+} sample.json
